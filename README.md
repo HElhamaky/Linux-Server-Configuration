@@ -1,7 +1,7 @@
 # Linux Server Configuration Project
 
 ### About the project
-> This is the last project toward Udacity Full Stack Web Developer Nanodegree. In this project, the [Item Catalog Application](https://github.com/HElhamaky/Item-Catalog-Project) from project 3 will be hosted by a Ubuntu Linux server on an Amazon Lightsail instance. A series of instructions will be presented below. You can visit http://15.188.77.140/ for the website deployed.
+> This is the last project toward Udacity Full Stack Web Developer Nanodegree. In this project, the [Item Catalog Application](https://github.com/HElhamaky/Item-Catalog-Project) project will be hosted by a Ubuntu Linux server on an Amazon Lightsail instance. A series of instructions will be presented below. You can visit http://15.188.77.140/ for the website deployed.
 
 * IP Address: 15.188.77.140
 * SSH Port: 2200
